@@ -1,0 +1,15 @@
+{
+  "name": "must-watch-api",
+  "type": "module",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Alvaro Schipper",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "cors-anywhere": "^0.4.4"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
